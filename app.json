@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ReactN Fiddle",
-    "slug": "ReactN Fiddle",
+    "name": "Reactn_fiddle",
+    "slug": "Reactn_fiddle",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
